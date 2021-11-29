@@ -1,3 +1,8 @@
+link to the app: https://rapid-webdev.web.app/#/
+
+
+
+
 # Quasar App (rapid-webdev-app)
 
 A Quasar Framework app
